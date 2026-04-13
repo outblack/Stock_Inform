@@ -1,0 +1,4 @@
+interface:
+  display_name: "Theme Rotation Map"
+  short_description: "Daily theme ranking, leader-stock playbooks, and debate workflows"
+  default_prompt: "Use $theme-rotation-map to rank today's hottest market themes, adapt the subagent role deck automatically, verify the claims through cross-examination, include true leader stocks with technical buy-sell scenarios inside one final detailed markdown report, save exactly one report file only, and use a Korean title when the output language is Korean."

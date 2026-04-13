@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img">
+<rect width="100%" height="100%" fill="#f6f4ec"/>
+<rect x="80" y="217.3" width="1060" height="16.7" fill="#d7ead8" opacity="0.55"/>
+<rect x="80" y="195.1" width="1060" height="16.7" fill="#c9e3d1" opacity="0.55"/>
+<rect x="80" y="167.2" width="1060" height="16.7" fill="#f2e6b3" opacity="0.55"/>
+<rect x="80" y="117.1" width="1060" height="11.1" fill="#f6d6b8" opacity="0.55"/>
+<line x1="80" y1="430.0" x2="1140" y2="430.0" stroke="#d7d2c4" stroke-dasharray="4 6"/>
+<text x="18" y="435.0" font-size="14" fill="#6a665c">0k</text>
+<line x1="80" y1="354.0" x2="1140" y2="354.0" stroke="#d7d2c4" stroke-dasharray="4 6"/>
+<text x="18" y="359.0" font-size="14" fill="#6a665c">26k</text>
+<line x1="80" y1="278.0" x2="1140" y2="278.0" stroke="#d7d2c4" stroke-dasharray="4 6"/>
+<text x="18" y="283.0" font-size="14" fill="#6a665c">54k</text>
+<line x1="80" y1="202.0" x2="1140" y2="202.0" stroke="#d7d2c4" stroke-dasharray="4 6"/>
+<text x="18" y="207.0" font-size="14" fill="#6a665c">81k</text>
+<line x1="80" y1="126.0" x2="1140" y2="126.0" stroke="#d7d2c4" stroke-dasharray="4 6"/>
+<text x="18" y="131.0" font-size="14" fill="#6a665c">108k</text>
+<line x1="80" y1="50.0" x2="1140" y2="50.0" stroke="#d7d2c4" stroke-dasharray="4 6"/>
+<text x="18" y="55.0" font-size="14" fill="#6a665c">136k</text>
+<line x1="80.0" y1="50" x2="80.0" y2="430" stroke="#ece7d9"/>
+<text x="62.0" y="456" font-size="13" fill="#6a665c">23.08</text>
+<line x1="146.2" y1="50" x2="146.2" y2="430" stroke="#ece7d9"/>
+<text x="128.2" y="456" font-size="13" fill="#6a665c">23.10</text>
+<line x1="245.6" y1="50" x2="245.6" y2="430" stroke="#ece7d9"/>
+<text x="227.6" y="456" font-size="13" fill="#6a665c">24.01</text>
+<line x1="345.0" y1="50" x2="345.0" y2="430" stroke="#ece7d9"/>
+<text x="327.0" y="456" font-size="13" fill="#6a665c">24.04</text>
+<line x1="444.4" y1="50" x2="444.4" y2="430" stroke="#ece7d9"/>
+<text x="426.4" y="456" font-size="13" fill="#6a665c">24.07</text>
+<line x1="543.8" y1="50" x2="543.8" y2="430" stroke="#ece7d9"/>
+<text x="525.8" y="456" font-size="13" fill="#6a665c">24.10</text>
+<line x1="643.1" y1="50" x2="643.1" y2="430" stroke="#ece7d9"/>
+<text x="625.1" y="456" font-size="13" fill="#6a665c">25.01</text>
+<line x1="742.5" y1="50" x2="742.5" y2="430" stroke="#ece7d9"/>
+<text x="724.5" y="456" font-size="13" fill="#6a665c">25.04</text>
+<line x1="841.9" y1="50" x2="841.9" y2="430" stroke="#ece7d9"/>
+<text x="823.9" y="456" font-size="13" fill="#6a665c">25.07</text>
+<line x1="941.2" y1="50" x2="941.2" y2="430" stroke="#ece7d9"/>
+<text x="923.2" y="456" font-size="13" fill="#6a665c">25.10</text>
+<line x1="1040.6" y1="50" x2="1040.6" y2="430" stroke="#ece7d9"/>
+<text x="1022.6" y="456" font-size="13" fill="#6a665c">26.01</text>
+<line x1="1140.0" y1="50" x2="1140.0" y2="430" stroke="#ece7d9"/>
+<text x="1122.0" y="456" font-size="13" fill="#6a665c">26.04</text>
+<rect x="80" y="50" width="1060" height="380" fill="none" stroke="#9f9a8f"/>
+<path d="M 80.0 403.8 L 113.1 396.8 L 146.2 392.7 L 179.4 393.7 L 212.5 394.0 L 245.6 394.0 L 278.8 393.1 L 311.9 385.5 L 345.0 336.9 L 378.1 342.0 L 411.2 342.0 L 444.4 342.0 L 477.5 342.0 L 510.6 342.0 L 543.8 342.0 L 576.9 356.9 L 610.0 356.9 L 643.1 367.6 L 676.2 352.3 L 709.4 373.6 L 742.5 389.3 L 775.6 383.9 L 808.8 386.8 L 841.9 393.4 L 875.0 395.9 L 908.1 373.3 L 941.2 332.3 L 974.4 280.5 L 1007.5 306.9 L 1040.6 226.5 L 1073.8 76.2 L 1106.9 129.6 L 1140.0 203.1" fill="none" stroke="#153c3c" stroke-width="3.2"/>
+<circle cx="1106.9" cy="-67.7" r="5" fill="#8a1c1c"/>
+<line x1="1106.9" y1="-67.7" x2="1196.9" y2="-107.7" stroke="#8a1c1c"/>
+<text x="1202.9" y="-111.7" font-size="14" fill="#8a1c1c">ATH 178.4k (2026-03-11)</text>
+<circle cx="1140.0" cy="203.1" r="5" fill="#1f5d4d"/>
+<text x="1020.0" y="193.1" font-size="14" fill="#1f5d4d">83.0k (2026-04-13 09:03)</text>
+<text x="80" y="28" font-size="24" font-weight="700" fill="#2d2a24">한국피아이엠 전체 주가 흐름과 주요 PLS 구간</text>
+<text x="80" y="455" font-size="15" fill="#5b564d">배경 밴드: 70k / 80k / 90k / 110k 가격대. 월말 종가 기준 라인, 최신 장중 종가 점 표시.</text>
+</svg>

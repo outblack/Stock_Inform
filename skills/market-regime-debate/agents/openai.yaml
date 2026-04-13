@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Regime Debate"
+  short_description: "Multi-agent macro regime report workflows"
+  default_prompt: "Use $market-regime-debate to analyze the current global and Korean market regime, use real subagents for every role you can, and save exactly one final detailed markdown report with a Korean title when the output language is Korean."

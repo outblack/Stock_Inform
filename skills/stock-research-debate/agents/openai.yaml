@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Research Debate"
+  short_description: "Adaptive stock debate, verification, and execution playbooks"
+  default_prompt: "Use $stock-research-debate to analyze NVDA with a 3-month horizon, adapt the subagent workflow automatically, add a verification round and rebuttal loop, include current price plus technical buy-sell scenarios inside one final detailed markdown report, save exactly one report file only, and use a Korean title when the output language is Korean."

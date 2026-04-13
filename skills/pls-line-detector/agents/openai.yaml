@@ -1,0 +1,4 @@
+interface:
+  display_name: "PLS Line Detector"
+  short_description: "PLS scans, candidate debate, and execution playbooks"
+  default_prompt: "Use $pls-line-detector to find overlooked stocks near major PLS support zones, adapt the subagent workflow automatically, verify the strongest candidates through cross-examination, include technical buy-sell scenarios in one final detailed markdown report, save exactly one report file only, and use a Korean title when the output language is Korean."
