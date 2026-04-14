@@ -60,7 +60,7 @@ npm run start
 ## 자주 보는 문서
 
 - [스킬 사용 가이드](./stock-skills-usage-guide.md)
-- [오늘 작성한 시황 리포트](./reports/2026-04-13/20260413-150058-market-regime-global-plus-korea.md)
+- [오늘 작성한 시황 리포트](./reports/2026-04-14/20260414-205400-market-regime-global-plus-korea.md)
 
 ## 저장소 구조
 
